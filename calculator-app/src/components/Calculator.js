@@ -1,4 +1,3 @@
-// src/Calculator.js
 import React, { Component } from 'react';
 import '../styles/Calculator.css';
 
